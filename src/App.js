@@ -1,9 +1,9 @@
 import './App.css';
-
+import Formik2 from './formik2';
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <Formik2></Formik2>
     </div>
   );
 }
